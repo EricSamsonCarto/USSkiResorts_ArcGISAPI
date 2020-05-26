@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-  <h3 align="center">Dispersed Camping in CA Leaflet Web Application</h3>
+  <h3 align="center">ArcGIS API for Javascript: Ski Resorts</h3>
 
   <p align="center">
     Map displaying snow depths and US ski resorts, using the ArcGIS API for Javascript<br>
