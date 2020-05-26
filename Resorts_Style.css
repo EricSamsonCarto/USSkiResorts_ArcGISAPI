@@ -1,0 +1,81 @@
+body {
+  max-width: 900px;
+  margin: auto;
+}
+
+#SkiMap  {
+  width: 100%;
+  height: 650px;
+  overflow: hidden;
+}
+
+/* SET LEGEND SIZE, OPACITY, USE OVERFLOW TO CHANGE SCROLL BAR */
+.esri-legend {
+  width: 130px !important;
+  height: 280px !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background-color: #FFFFFF99 !important;
+  font-size: 1.2rem !important;
+  font-family: montserrat, sans-serif !important;
+  overflow: scroll !important;
+  overflow-x: none !important;
+}
+
+/* REMOVE LAYER NAME, (IMAGE) */
+.esri-legend__layer-caption {
+  display: none !important;
+}
+
+/* CENTER EVERYTHING */
+.esri-legend__service {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* REMOVE DEFAULT SCROLLBAR */
+::-webkit-scrollbar {
+    width: 0px !important;  
+    background: transparent !important;
+}
+
+
+/* POPUP */
+
+/* POPUP WIDTH SIZE OF THE RESORT NAME */
+.esri-popup__main-container.esri-widget{
+  width: 100% !important;
+}
+
+/* REMOVE POPUP FOOTER */
+.esri-popup__footer.esri-popup__footer--has-actions{
+  display: none !important;
+}
+
+/* SET THE POPUP BACKGROUND TO WHITE */
+.esri-popup__header-container{
+  background-color: #FFFFFF !important;
+}
+
+/* REMOVE DEFAULT BUTTONS */
+.esri-popup__header-buttons{
+  display: none !important;
+}
+
+/* STYLE THE POPUP */
+.esri-popup__header-title {
+  padding: 0 !important;
+  margin: .4rem !important;
+  font-size: .8rem;
+  font-family: montserrat, sans-serif !important;
+}
+
+/* REMOVE UNNECESSARY POINTER */
+.esri-popup__pointer {
+  display: none;
+}
+
+/* NO DROP DOWN OPTIONS */
+.esri-menu__list-item {
+  display: none !important;
+}
