@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 <div align="center">
   
-<img src="https://lh3.googleusercontent.com/VAkI6AmHp0aOhyPW1sNv7m0IqTwmJlU-SXN2_c7eSOgVxqXh7ef-WMdKXG3xJkbWHSurdaUMDwYNWRJjeuAiqbSoq65nKjbwNeGB0O4rYl1NghzbL6spVyDDBDD0Wnb9O6ZomZrdxw=w2400" width="500px">
+<img src="https://lh3.googleusercontent.com/lys48zhIyB_OSfrzVqPG1GzSyQa2wB0KzNKVYUCWt09GghZdMFqeyoaxer0SZTc3o5PB0uQIi3iM4BK5d3JyZ1gzy45Bl169CxsueZq5WBH3SxAe2gBLqCuD-JIRYWi4HYgInd8LCg=w2400" width="500px">
   
 </div>
 
@@ -27,11 +27,6 @@ Email: ericsamsonwx@gmail.com <br>
 Website: [EricSamson.com](https://ericsamson.com) <br>
 
 Project Link: [https://github.com/EricSamsonCarto/USSkiResorts_ArcGISAPI](https://github.com/EricSamsonCarto/USSkiResorts_ArcGISAPI)
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [MapBox toKML](https://github.com/mapbox/tokml)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/iamericsamson
